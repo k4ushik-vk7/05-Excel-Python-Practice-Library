@@ -52,11 +52,11 @@ A Jupyter Notebook containing organised Python learning materials and practical 
 ```text
 05-Excel-&-Python-Practice-Library/
 │
-├── Excel Skills Workbook.xlsx    # Page-Wise Each Topic Excel Practice.
+├── Excel Skills Workbook.xlsx    # Excel practice page-wise topics
 │
-├── Python Practice Notebook/     # Python Practice Topic-wise PDF.
+├── Python Practice Notebook/     # Python practice topic-wise PDFs
 │
-└── README.md                     # Repository Overview.
+└── README.md                     # Repository Overview
 ```
 
 ## 💡 Skills Development
