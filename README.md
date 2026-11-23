@@ -41,7 +41,7 @@ A structured Excel practice workbook containing learning materials and practical
 
 ### 02. 🐍 Python Practice Notebook
 
-**File:** `Python Practice Notebook.ipynb`
+**File:** `Python Practice Notebook/`
 
 A Jupyter Notebook containing organised Python learning materials and practical coding exercises.
 
@@ -52,11 +52,11 @@ A Jupyter Notebook containing organised Python learning materials and practical 
 ```text
 05-Excel-&-Python-Practice-Library/
 │
-├── Excel Skills Workbook.xlsx
+├── Excel Skills Workbook.xlsx    # Page-Wise Each Topic Excel Practice.
 │
-├── Python Practice Notebook.ipynb
+├── Python Practice Notebook/     # Python Practice Topic-wise PDF.
 │
-└── README.md
+└── README.md                     # Repository Overview.
 ```
 
 ## 💡 Skills Development
